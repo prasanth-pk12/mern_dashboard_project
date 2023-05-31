@@ -1,8 +1,8 @@
 # Build and Deploy a Full Stack MERN Dashboard App With CRUD, Auth, and Charts Using Refine
 
-With modern material design, a fully functional dashboard, a property management page, and a users page - both connected to our database and a profile page that connects the two, this video is the updated full-stack MERN course you’ve all been waiting for.
+With modern material design, a fully functional dashboard, a property management page, and a users page - both connected to our database and a profile page that connects the two.
 
-Alongside building this application, you'll learn how to use the most in-demand technologies today:
+## Techknowledge used
 
 1. Node.js, Express.js, MongoDB, and React.js that together form the powerful MERN stack
 2. Material UI: The most popular UI Component Kit nowadays
