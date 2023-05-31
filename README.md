@@ -13,3 +13,4 @@ Alongside building this application, you'll learn how to use the most in-demand 
 7. And most importantly, you’ll learn how to build React-based CRUD applications incredibly quickly using refine.
 
 Link: https://dashboard-refine-mern.netlify.app/
+![6](https://github.com/prasanth-pk12/mern_dashboard_project/assets/87668644/f7783594-b625-474f-a4b0-edeefc5b0d79)
