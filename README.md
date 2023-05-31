@@ -2,7 +2,7 @@
 
 With modern material design, a fully functional dashboard, a property management page, and a users page - both connected to our database and a profile page that connects the two.
 
-## Techknowledge used
+## Technology used:
 
 1. Node.js, Express.js, MongoDB, and React.js that together form the powerful MERN stack
 2. Material UI: The most popular UI Component Kit nowadays
